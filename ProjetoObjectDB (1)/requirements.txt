@@ -1,0 +1,5 @@
+ZODB>=6.0
+persistent>=6.1
+zope.interface>=7.2
+BTrees>=6.1
+transaction>=5.0 
